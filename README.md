@@ -11,6 +11,6 @@ Matplotlib is a popular Python library that can be used to create your Data Visu
 - Bar Plots
 - Box Plots
 
-
-View the code and output in my blog post here:
+  
+View the code and output in my blog post here:  
 https://loganblackstad.github.io/Simple-Python-Visualizations-With-Code/
